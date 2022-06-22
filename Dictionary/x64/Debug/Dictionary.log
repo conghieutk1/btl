@@ -1,0 +1,24 @@
+﻿  mainForm.cpp
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(84,21): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(84,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(86,6): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(433,18): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(465,18): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(467,18): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(433,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(434,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(465,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(467,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(503,17): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(520,20): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(503,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(520,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(521,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(568,17): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(585,20): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(568,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(585,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.h(586,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Edit.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Dictionary.vcxproj -> D:\BKHN\Ky_20212\CTDL&DT\BTL_3\x64\Debug\Dictionary.exe
