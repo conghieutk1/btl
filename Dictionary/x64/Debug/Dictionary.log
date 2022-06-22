@@ -1,4 +1,0 @@
-﻿  mainForm.cpp
-D:\BKHN\Ky_20212\CTDL&DT\BTL_3\Dictionary\mainForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
-  mainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Dictionary.vcxproj -> D:\BKHN\Ky_20212\CTDL&DT\BTL_3\x64\Debug\Dictionary.exe
