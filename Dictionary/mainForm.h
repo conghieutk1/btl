@@ -912,8 +912,8 @@ private: System::Void button8_Click(System::Object^ sender, System::EventArgs^ e
 	}
 	fp.close();
 	MessageBox::Show("Saved success");
-	DATABASE_123.clear();
-	DATABASE_abc.clear();
+	//DATABASE_123.clear();
+	//DATABASE_abc.clear();
 }
 };
 }
