@@ -1,0 +1,35 @@
+﻿  Edit.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Edit.cpp': No such file or directory
+  Search1.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Search1.cpp': No such file or directory
+  Search2.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Search2.cpp': No such file or directory
+  mainForm.cpp
+  The contents of <string_view> are available only with C++17 or later.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(135,55): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(135,41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(137,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(622,18): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(624,18): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(630,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(632,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(648,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(658,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(622,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(624,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(689,17): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(693,18): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(695,18): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(719,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(744,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(689,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(693,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(695,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(762,17): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(762,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(874,15): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.h(874,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\BKHN\Ky_20212\CTDL&DT\BTL_2\Dictionary\mainForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  popup.cpp
+c1xx : fatal error C1083: Cannot open source file: 'popup.cpp': No such file or directory
+  Generating Code...

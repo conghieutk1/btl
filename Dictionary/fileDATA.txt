@@ -1,0 +1,10 @@
+[1] txt text.
+[2] gnd ground.
+[3] acc account.
+[4] vn viet nam.
+[5] dh dai hoc.
+[6] gt3 Giai Tich III.
+[7] bcao bao cao.
+[8] qc quang cao.
+[9] wc world cup.
+[10] AC ANH CHI.
