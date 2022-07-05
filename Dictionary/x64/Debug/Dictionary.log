@@ -1,0 +1,9 @@
+﻿  Edit.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Edit.cpp': No such file or directory
+  popup.cpp
+c1xx : fatal error C1083: Cannot open source file: 'popup.cpp': No such file or directory
+  Search1.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Search1.cpp': No such file or directory
+  Search2.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Search2.cpp': No such file or directory
+  Generating Code...
